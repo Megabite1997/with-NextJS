@@ -1,6 +1,6 @@
 # NextJS [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
-## The React Framework for Production
+## The React Framework the Web
 
 <ins>NextJS</ins> makes building large scale React apps easier. It enhances React by adding many core features which you have to add to React apps on your own otherwise. such as routing. You don't have to add as many third party libraries to solve common problems, which you need in bigger apps.
 
